@@ -1,0 +1,694 @@
+Filtered graph has 138 nodes and 472 edges after removing nodes with fewer than 3 connections.
+Filtered graph has 138 nodes and 472 edges after removing nodes with total edge weight less than 1.
+
+Node Details:
+
+Node: _beckyym
+Degree: 117
+Total Edge Weight: 125
+Neighbors: thereallolitas, carlosme97, miklikli, cj_chenjacobs, noahperlofit, camila.dvo, callie_and_cathe, sugar_heist_cookies, twooutsiders, angelicavalenciar, camilo, exploramiami, razsimhi, cheatdayeats, briana._m1217, elevenmediagency, lotusproevents, sara.nino, datievaira, skyshinedecorations, ilovecafelola, primerimpacto, sara.swimwear, shafik_ofc, mariabuchilin, m.a.r.b.r.i, bxbodegacat, sabrina.cavounis, grecia_almandoz, _keybookmess_, nathalie_yordi, a.lex.a.ndr.aaa, jenniii.diazz, loveshackfancy, peakacity, anabelparodi, bcreativeevent, casabusa, lizpavlovaa, sara.haven, yehu.exe, graciafe.cardenass, jasonoppenheim, dorinelagemi, ziv2810, parishilton, pineronorma, elisabeth_btt, dalila_olivaa, sweetportfolio, anabelleblum, evacaro.ch, ferreycommercial, jeannettekaplun, thechrisedit, sheergos, dianarotundo, sshalia, iaraisakson, lilou_sanna, mariajtineoo, juliarodriguesofficial, cathe_caceres, emma.vecr, miamiherald, peggyporschenofficial, noatishby, udisimhi, b4umiami, theshowroombakehouse, allyarip1, lolitadessertclub, neverlandcoffeebar, secretmiami_, estudiocece, lau_miranda17, miamibucketlist, zendaya, puto_dog, miamicertified, valenkacherian, worldstar, mileycyrus, dmesa25, advice, lizzyarredondoo, jlo, dany.0916, july9103, lilly, cruz2399, macman_in_fl, justinbieber, miamiheat, miamidadecounty, aventuramall, danielitoyumi, ccmonteagudo, osvaldoep69, lifestyle_miami, arianagrande, memezar, priyankachopra, buzzfeedtasty, foodnetwork, monik_interian, beckysphotos_, foodys, mariacadena, nickjonas, taylorswift, rach.morales, ivetteep67, yachtsmarketing, so_dolly, promo_.hub._1, mabelenriquezpinero
+
+Node: thereallolitas
+Degree: 11
+Total Edge Weight: 20
+Neighbors: _beckyym, lolitadessertclub, carlosme97, miklikli, cj_chenjacobs, yehu.exe, macman_in_fl, ivetteep67, yachtsmarketing, fielads6999, saxmanawenderow3
+
+Node: carlosme97
+Degree: 45
+Total Edge Weight: 49
+Neighbors: _beckyym, thereallolitas, miklikli, ivetteep67, skyshinedecorations, sportscenter, angelicavalenciar, emma.vecr, cathe_caceres, noahperlofit, noatishby, sugar_heist_cookies, briana._m1217, bcreativeevent, peakacity, jenniii.diazz, yehu.exe, sara.haven, mabelenriquezpinero, thechrisedit, ferreycommercial, osvaldoep69, lolitadessertclub, secretmiami_, neverlandcoffeebar, estudiocece, lau_miranda17, puto_dog, pineronorma, miamicertified, jasonoppenheim, beckysphotos_, lifestyle_miami, memezar, ccmonteagudo, dany.0916, dmesa25, cruz2399, dalila_olivaa, foodys, monik_interian, danielitoyumi, july9103, anabelparodi, mariacadena
+
+Node: miklikli
+Degree: 55
+Total Edge Weight: 62
+Neighbors: _beckyym, thereallolitas, carlosme97, cj_chenjacobs, yachtsmarketing, skyshinedecorations, camila.dvo, angelicavalenciar, noahperlofit, callie_and_cathe, bxbodegacat, sugar_heist_cookies, dorinelagemi, elevenmediagency, briana._m1217, ziv2810, shafik_ofc, seanchaprakfood, sheergos, a.lex.a.ndr.aaa, grecia_almandoz, theshowroombakehouse, sabrina.cavounis, mariabuchilin, lizpavlovaa, ayelen_mailen, professor_ruski, thechrisedit, iaraisakson, evacaro.ch, lilou_sanna, juliarodriguesofficial, lolitadessertclub, sara.swimwear, emma.vecr, tali.pz, cathe_caceres, sshalia, miamicertified, _keybookmess_, m.a.r.b.r.i, valentiinacarrasco, allyarip1, dianarotundo, advice, neverlandcoffeebar, rach.morales, memezar, lifestyle_miami, mariajtineoo, sara.nino, datievaira, mariacadena, valenkacherian, mellanyest
+
+Node: cj_chenjacobs
+Degree: 64
+Total Edge Weight: 70
+Neighbors: _beckyym, thereallolitas, miklikli, yachtsmarketing, jasonoppenheim, b4umiami, camila.dvo, tali.pz, casabusa, miamicertified, udisimhi, justinbieber, lifestyle_miami, camilo, luxurysignmiami, secretmiami_, miamidadecounty, timeoutmiami, ilovecafelola, a.lex.a.ndr.aaa, evacaro.ch, miamibucketlist, sabrina.cavounis, datievaira, lolitadessertclub, mellanyest, foodys, foodnetwork, miamiherald, miamiheat, lizpavlovaa, juliarodriguesofficial, anabelleblum, graciafe.cardenass, lilou_sanna, emma.vecr, cathe_caceres, sshalia, dorinelagemi, ziv2810, allyarip1, sheergos, _keybookmess_, razsimhi, neverlandcoffeebar, briana._m1217, sara.nino, shafik_ofc, mariabuchilin, m.a.r.b.r.i, nathalie_yordi, dianarotundo, mariajtineoo, macman_in_fl, so_dolly, promo_.hub._1, kasayogastudios, wegallery.art, osnatsaid, sigmaz, seanchaprakfood, ayelen_mailen, professor_ruski, valentiinacarrasco
+
+Node: noahperlofit
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, miklikli
+
+Node: camila.dvo
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, miklikli, cj_chenjacobs, lolitadessertclub
+
+Node: callie_and_cathe
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, miklikli, lolitadessertclub
+
+Node: sugar_heist_cookies
+Degree: 5
+Total Edge Weight: 5
+Neighbors: _beckyym, carlosme97, miklikli, lolitadessertclub, yachtsmarketing
+
+Node: twooutsiders
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, lotusproevents, lolitadessertclub, ivetteep67
+
+Node: angelicavalenciar
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, carlosme97, miklikli, lolitadessertclub
+
+Node: camilo
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, cj_chenjacobs, neverlandcoffeebar
+
+Node: exploramiami
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, lotusproevents, lolitadessertclub, ivetteep67
+
+Node: razsimhi
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, cj_chenjacobs, yachtsmarketing, neverlandcoffeebar
+
+Node: cheatdayeats
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, lolitadessertclub, yachtsmarketing
+
+Node: briana._m1217
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, carlosme97, miklikli, cj_chenjacobs
+
+Node: elevenmediagency
+Degree: 5
+Total Edge Weight: 5
+Neighbors: _beckyym, miklikli, yachtsmarketing, lolitadessertclub, neverlandcoffeebar
+
+Node: lotusproevents
+Degree: 17
+Total Edge Weight: 17
+Neighbors: _beckyym, twooutsiders, exploramiami, loveshackfancy, lizzyarredondoo, skyshinedecorations, lolitadessertclub, casabusa, b4umiami, luxurysignmiami, timeoutmiami, neverlandcoffeebar, enriqueiglesias, lelepons, miamidadecounty, ingerdevera, aventuramall
+
+Node: sara.nino
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, miklikli, cj_chenjacobs
+
+Node: datievaira
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, miklikli, cj_chenjacobs, lolitadessertclub
+
+Node: skyshinedecorations
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, carlosme97, miklikli, lotusproevents
+
+Node: ilovecafelola
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, cj_chenjacobs, lolitadessertclub
+
+Node: primerimpacto
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, lolitadessertclub, neverlandcoffeebar
+
+Node: sara.swimwear
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, miklikli, neverlandcoffeebar
+
+Node: shafik_ofc
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, miklikli, cj_chenjacobs
+
+Node: mariabuchilin
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, miklikli, cj_chenjacobs, yachtsmarketing
+
+Node: m.a.r.b.r.i
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, miklikli, cj_chenjacobs, neverlandcoffeebar
+
+Node: bxbodegacat
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, miklikli, neverlandcoffeebar, ivetteep67
+
+Node: sabrina.cavounis
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, miklikli, cj_chenjacobs, yachtsmarketing
+
+Node: grecia_almandoz
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, miklikli, yachtsmarketing
+
+Node: _keybookmess_
+Degree: 5
+Total Edge Weight: 5
+Neighbors: _beckyym, miklikli, cj_chenjacobs, yachtsmarketing, neverlandcoffeebar
+
+Node: nathalie_yordi
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, cj_chenjacobs, neverlandcoffeebar
+
+Node: a.lex.a.ndr.aaa
+Degree: 5
+Total Edge Weight: 5
+Neighbors: _beckyym, miklikli, cj_chenjacobs, lolitadessertclub, neverlandcoffeebar
+
+Node: jenniii.diazz
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: loveshackfancy
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, lotusproevents, lolitadessertclub, neverlandcoffeebar
+
+Node: peakacity
+Degree: 5
+Total Edge Weight: 5
+Neighbors: _beckyym, carlosme97, lolitadessertclub, neverlandcoffeebar, yachtsmarketing
+
+Node: anabelparodi
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: bcreativeevent
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: casabusa
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, cj_chenjacobs, lotusproevents, neverlandcoffeebar
+
+Node: lizpavlovaa
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, miklikli, cj_chenjacobs
+
+Node: sara.haven
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, lolitadessertclub
+
+Node: yehu.exe
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, thereallolitas, carlosme97
+
+Node: graciafe.cardenass
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, cj_chenjacobs, lolitadessertclub, neverlandcoffeebar
+
+Node: jasonoppenheim
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, cj_chenjacobs
+
+Node: dorinelagemi
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, miklikli, cj_chenjacobs
+
+Node: ziv2810
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, miklikli, cj_chenjacobs
+
+Node: parishilton
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, lolitadessertclub, saxmanawenderow3
+
+Node: pineronorma
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: elisabeth_btt
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, lolitadessertclub, neverlandcoffeebar
+
+Node: dalila_olivaa
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: sweetportfolio
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, lolitadessertclub, neverlandcoffeebar
+
+Node: anabelleblum
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, cj_chenjacobs, lolitadessertclub, neverlandcoffeebar
+
+Node: evacaro.ch
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, miklikli, cj_chenjacobs, neverlandcoffeebar
+
+Node: ferreycommercial
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: jeannettekaplun
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, lolitadessertclub, neverlandcoffeebar
+
+Node: thechrisedit
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, carlosme97, miklikli, yachtsmarketing
+
+Node: sheergos
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, miklikli, cj_chenjacobs, neverlandcoffeebar
+
+Node: dianarotundo
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, miklikli, cj_chenjacobs, neverlandcoffeebar
+
+Node: sshalia
+Degree: 5
+Total Edge Weight: 5
+Neighbors: _beckyym, miklikli, cj_chenjacobs, lolitadessertclub, neverlandcoffeebar
+
+Node: iaraisakson
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, miklikli, neverlandcoffeebar
+
+Node: lilou_sanna
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, miklikli, cj_chenjacobs, neverlandcoffeebar
+
+Node: mariajtineoo
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, miklikli, cj_chenjacobs, neverlandcoffeebar
+
+Node: juliarodriguesofficial
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, miklikli, cj_chenjacobs
+
+Node: cathe_caceres
+Degree: 7
+Total Edge Weight: 7
+Neighbors: _beckyym, carlosme97, miklikli, cj_chenjacobs, yachtsmarketing, lolitadessertclub, neverlandcoffeebar
+
+Node: emma.vecr
+Degree: 5
+Total Edge Weight: 5
+Neighbors: _beckyym, carlosme97, miklikli, cj_chenjacobs, lolitadessertclub
+
+Node: miamiherald
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, cj_chenjacobs, neverlandcoffeebar
+
+Node: peggyporschenofficial
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, lolitadessertclub, neverlandcoffeebar
+
+Node: noatishby
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, neverlandcoffeebar
+
+Node: udisimhi
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, cj_chenjacobs, lolitadessertclub
+
+Node: b4umiami
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, cj_chenjacobs, lotusproevents, lolitadessertclub
+
+Node: theshowroombakehouse
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, miklikli, neverlandcoffeebar, yachtsmarketing
+
+Node: allyarip1
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, miklikli, cj_chenjacobs, neverlandcoffeebar
+
+Node: lolitadessertclub
+Degree: 44
+Total Edge Weight: 48
+Neighbors: _beckyym, thereallolitas, carlosme97, miklikli, cj_chenjacobs, camila.dvo, callie_and_cathe, sugar_heist_cookies, twooutsiders, angelicavalenciar, exploramiami, cheatdayeats, elevenmediagency, lotusproevents, datievaira, ilovecafelola, primerimpacto, a.lex.a.ndr.aaa, loveshackfancy, peakacity, sara.haven, graciafe.cardenass, parishilton, elisabeth_btt, sweetportfolio, anabelleblum, jeannettekaplun, sshalia, cathe_caceres, emma.vecr, peggyporschenofficial, udisimhi, b4umiami, secretmiami_, buzzfeedtasty, foodnetwork, netflix, miamicertified, aventuramall, lizzyarredondoo, lifestyle_miami, miamibucketlist, neverlandcoffeebar, yachtsmarketing
+
+Node: neverlandcoffeebar
+Degree: 60
+Total Edge Weight: 63
+Neighbors: _beckyym, carlosme97, miklikli, cj_chenjacobs, camilo, razsimhi, elevenmediagency, lotusproevents, primerimpacto, sara.swimwear, m.a.r.b.r.i, bxbodegacat, _keybookmess_, nathalie_yordi, a.lex.a.ndr.aaa, loveshackfancy, peakacity, casabusa, graciafe.cardenass, elisabeth_btt, sweetportfolio, anabelleblum, evacaro.ch, jeannettekaplun, sheergos, dianarotundo, sshalia, iaraisakson, lilou_sanna, mariajtineoo, cathe_caceres, miamiherald, peggyporschenofficial, noatishby, theshowroombakehouse, allyarip1, lolitadessertclub, wegallery.art, kasayogastudios, valenkacherian, miamibucketlist, lizzyarredondoo, tali.pz, miamiheat, miamicertified, secretmiami_, valentiinacarrasco, rach.morales, professor_ruski, lifestyle_miami, sigmaz, ayelen_mailen, instagram, buzzfeedtasty, seanchaprakfood, osnatsaid, enriqueiglesias, timeoutmiami, ingerdevera, yachtsmarketing
+
+Node: secretmiami_
+Degree: 5
+Total Edge Weight: 5
+Neighbors: _beckyym, carlosme97, cj_chenjacobs, lolitadessertclub, neverlandcoffeebar
+
+Node: estudiocece
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: lau_miranda17
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: miamibucketlist
+Degree: 5
+Total Edge Weight: 5
+Neighbors: _beckyym, cj_chenjacobs, lolitadessertclub, neverlandcoffeebar, yachtsmarketing
+
+Node: zendaya
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, fielads6999, saxmanawenderow3
+
+Node: puto_dog
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: miamicertified
+Degree: 6
+Total Edge Weight: 6
+Neighbors: _beckyym, carlosme97, miklikli, cj_chenjacobs, lolitadessertclub, neverlandcoffeebar
+
+Node: valenkacherian
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, miklikli, neverlandcoffeebar
+
+Node: worldstar
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, fielads6999, saxmanawenderow3
+
+Node: mileycyrus
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, yachtsmarketing, saxmanawenderow3
+
+Node: dmesa25
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: advice
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, miklikli, saxmanawenderow3
+
+Node: lizzyarredondoo
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, lotusproevents, lolitadessertclub, neverlandcoffeebar
+
+Node: jlo
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, yachtsmarketing, fielads6999, saxmanawenderow3
+
+Node: dany.0916
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: july9103
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: lilly
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, fielads6999, saxmanawenderow3
+
+Node: cruz2399
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: macman_in_fl
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, thereallolitas, cj_chenjacobs
+
+Node: justinbieber
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, cj_chenjacobs, fielads6999, saxmanawenderow3
+
+Node: miamiheat
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, cj_chenjacobs, neverlandcoffeebar
+
+Node: miamidadecounty
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, cj_chenjacobs, lotusproevents
+
+Node: aventuramall
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, lotusproevents, lolitadessertclub
+
+Node: danielitoyumi
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: ccmonteagudo
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: osvaldoep69
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: lifestyle_miami
+Degree: 6
+Total Edge Weight: 6
+Neighbors: _beckyym, carlosme97, miklikli, cj_chenjacobs, lolitadessertclub, neverlandcoffeebar
+
+Node: arianagrande
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, fielads6999, saxmanawenderow3
+
+Node: memezar
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, miklikli
+
+Node: priyankachopra
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, fielads6999, saxmanawenderow3
+
+Node: buzzfeedtasty
+Degree: 4
+Total Edge Weight: 4
+Neighbors: _beckyym, lolitadessertclub, neverlandcoffeebar, saxmanawenderow3
+
+Node: foodnetwork
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, cj_chenjacobs, lolitadessertclub
+
+Node: monik_interian
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: beckysphotos_
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: foodys
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, cj_chenjacobs
+
+Node: mariacadena
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, miklikli
+
+Node: nickjonas
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, fielads6999, saxmanawenderow3
+
+Node: taylorswift
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, fielads6999, saxmanawenderow3
+
+Node: rach.morales
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, miklikli, neverlandcoffeebar
+
+Node: netflix
+Degree: 3
+Total Edge Weight: 3
+Neighbors: lolitadessertclub, fielads6999, saxmanawenderow3
+
+Node: ivetteep67
+Degree: 25
+Total Edge Weight: 28
+Neighbors: _beckyym, thereallolitas, carlosme97, twooutsiders, exploramiami, bxbodegacat, jenniii.diazz, anabelparodi, bcreativeevent, pineronorma, dalila_olivaa, ferreycommercial, estudiocece, lau_miranda17, puto_dog, dmesa25, dany.0916, july9103, cruz2399, danielitoyumi, ccmonteagudo, osvaldoep69, monik_interian, beckysphotos_, mabelenriquezpinero
+
+Node: yachtsmarketing
+Degree: 33
+Total Edge Weight: 39
+Neighbors: _beckyym, thereallolitas, miklikli, cj_chenjacobs, sugar_heist_cookies, razsimhi, cheatdayeats, elevenmediagency, mariabuchilin, sabrina.cavounis, grecia_almandoz, _keybookmess_, peakacity, thechrisedit, cathe_caceres, theshowroombakehouse, lolitadessertclub, neverlandcoffeebar, miamibucketlist, mileycyrus, jlo, kasayogastudios, wegallery.art, mellanyest, osnatsaid, sigmaz, luxurysignmiami, lelepons, so_dolly, promo_.hub._1, professor_ruski, fielads6999, saxmanawenderow3
+
+Node: so_dolly
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, cj_chenjacobs, yachtsmarketing
+
+Node: promo_.hub._1
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, cj_chenjacobs, yachtsmarketing
+
+Node: mabelenriquezpinero
+Degree: 3
+Total Edge Weight: 3
+Neighbors: _beckyym, carlosme97, ivetteep67
+
+Node: kasayogastudios
+Degree: 3
+Total Edge Weight: 3
+Neighbors: cj_chenjacobs, neverlandcoffeebar, yachtsmarketing
+
+Node: wegallery.art
+Degree: 3
+Total Edge Weight: 3
+Neighbors: cj_chenjacobs, neverlandcoffeebar, yachtsmarketing
+
+Node: mellanyest
+Degree: 3
+Total Edge Weight: 3
+Neighbors: miklikli, cj_chenjacobs, yachtsmarketing
+
+Node: osnatsaid
+Degree: 3
+Total Edge Weight: 3
+Neighbors: cj_chenjacobs, neverlandcoffeebar, yachtsmarketing
+
+Node: sigmaz
+Degree: 3
+Total Edge Weight: 3
+Neighbors: cj_chenjacobs, neverlandcoffeebar, yachtsmarketing
+
+Node: luxurysignmiami
+Degree: 3
+Total Edge Weight: 3
+Neighbors: cj_chenjacobs, lotusproevents, yachtsmarketing
+
+Node: lelepons
+Degree: 4
+Total Edge Weight: 4
+Neighbors: lotusproevents, yachtsmarketing, fielads6999, saxmanawenderow3
+
+Node: seanchaprakfood
+Degree: 3
+Total Edge Weight: 3
+Neighbors: miklikli, cj_chenjacobs, neverlandcoffeebar
+
+Node: ayelen_mailen
+Degree: 3
+Total Edge Weight: 3
+Neighbors: miklikli, cj_chenjacobs, neverlandcoffeebar
+
+Node: professor_ruski
+Degree: 4
+Total Edge Weight: 4
+Neighbors: miklikli, cj_chenjacobs, neverlandcoffeebar, yachtsmarketing
+
+Node: tali.pz
+Degree: 3
+Total Edge Weight: 3
+Neighbors: miklikli, cj_chenjacobs, neverlandcoffeebar
+
+Node: valentiinacarrasco
+Degree: 3
+Total Edge Weight: 3
+Neighbors: miklikli, cj_chenjacobs, neverlandcoffeebar
+
+Node: instagram
+Degree: 3
+Total Edge Weight: 3
+Neighbors: neverlandcoffeebar, fielads6999, saxmanawenderow3
+
+Node: enriqueiglesias
+Degree: 3
+Total Edge Weight: 3
+Neighbors: lotusproevents, neverlandcoffeebar, saxmanawenderow3
+
+Node: timeoutmiami
+Degree: 3
+Total Edge Weight: 3
+Neighbors: cj_chenjacobs, lotusproevents, neverlandcoffeebar
+
+Node: ingerdevera
+Degree: 3
+Total Edge Weight: 3
+Neighbors: lotusproevents, neverlandcoffeebar, saxmanawenderow3
+
+Node: sportscenter
+Degree: 3
+Total Edge Weight: 3
+Neighbors: carlosme97, fielads6999, saxmanawenderow3
+
+Node: fielads6999
+Degree: 15
+Total Edge Weight: 17
+Neighbors: thereallolitas, zendaya, worldstar, jlo, lilly, justinbieber, arianagrande, priyankachopra, nickjonas, taylorswift, netflix, yachtsmarketing, lelepons, instagram, sportscenter
+
+Node: saxmanawenderow3
+Degree: 21
+Total Edge Weight: 23
+Neighbors: thereallolitas, parishilton, zendaya, worldstar, mileycyrus, advice, jlo, lilly, justinbieber, arianagrande, priyankachopra, buzzfeedtasty, nickjonas, taylorswift, netflix, yachtsmarketing, lelepons, instagram, enriqueiglesias, ingerdevera, sportscenter
